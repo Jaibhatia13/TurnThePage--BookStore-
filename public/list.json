@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "The Story School By Nandini Nayar",
+    "price": 0,
+    "category": "Free",
+    "image": "https://speakingtigerbooks.com/wp-content/uploads/2022/11/The-Story-School_Front-Cover.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Fiction Book",
+    "title": "Harry Potter and the Sorcerer's Stone By J.K Rowling",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SY475_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Music Book",
+    "title": "Let's Play an Instrument By Rachelle Burk",
+    "price": 100,
+    "category": "Music",
+    "image": "https://m.media-amazon.com/images/I/91nSR7KYxGL._UF894,1000_QL80_.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Story Book",
+    "title": "The Boy who Cried Wolf By Miles Kelly",
+    "price": 0,
+    "category": "Free",
+    "image": "https://dukaan.b-cdn.net/700x700/webp/media/8b90e5f5-63db-4424-9a92-77382f9fa986.webp"
+  },
+  {
+    "id": 5,
+    "name": "Food Book",
+    "title": "Satvic Movement By Subah Saraf",
+    "price": 200,
+    "category": "Free",
+    "image": "https://m.media-amazon.com/images/I/81xJnmKWXkL._UF1000,1000_QL80_.jpg"
+  }
+]
