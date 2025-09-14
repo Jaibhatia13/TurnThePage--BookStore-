@@ -1,12 +1,22 @@
-# React + Vite
+📚 Book Store App - TurnThePage
+A modern, responsive Book Store web application built with React, styled using Tailwind CSS & DaisyUI, and designed for a smooth user experience. The app allows users to browse books, view details, and explore curated collections with a clean UI.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Features
+✅ Browse a variety of books (categorized neatly)
+✅ Beautiful and responsive UI with TailwindCSS & DaisyUI
+✅ Easy navigation using React Router
+✅ Search bar for finding books instantly
+✅ Dark Mode support (via DaisyUI theme)
+✅ Fully responsive – works on mobile, tablet, and desktop
 
-Currently, two official plugins are available:
+🛠 Tech Stack
+⚛️ React.js – Frontend library
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🎨 Tailwind CSS – Utility-first CSS framework
 
-## Expanding the ESLint configuration
+🌸 DaisyUI – Component library for Tailwind
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🌍 React Router DOM – Routing and navigation
+
+📦 npm  – Package manager
+
